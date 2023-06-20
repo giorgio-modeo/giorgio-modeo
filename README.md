@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgio-modeo&layout=pie&theme=dark&background=000000)
 #
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=giorgio-modeo)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pacchio1)
