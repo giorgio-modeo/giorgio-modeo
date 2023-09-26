@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=pacchio1&style=flat-square&color=blueviolet" alt=""/>
+</div>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=giorgio-modeo&theme=dark&background=000000)
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgio-modeo&layout=pie&theme=dark&background=000000)
