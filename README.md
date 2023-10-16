@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=pacchio1&style=flat-square&color=blueviolet" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=giorgio-modeo&style=flat-square&color=blueviolet" alt=""/>
 </div>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=giorgio-modeo&theme=dark&background=000000)
 #
