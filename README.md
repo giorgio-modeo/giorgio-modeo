@@ -17,8 +17,3 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=giorgio-modeo&style=flat-square&color=blueviolet" alt=""/>
 </div>
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=giorgio-modeo&theme=dark&background=000000)
-#
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgio-modeo&layout=pie&theme=dark&background=000000)
-#
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgio-modeo\&theme=dark&background=000000)
