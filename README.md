@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=giorgio-modeo&style=flat-square&color=blueviolet" alt=""/>
 </div>
 
-![giorgio-modeo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgio-modeo&layout=compact&theme=radical)
+![giorgio-modeo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgio-modeo&show_icons=true&layout=compact&theme=radical)
 ![giorgio-modeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgio-modeo&show_icons=true&theme=radical)
 ![giorgio-modeo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=giorgio-modeo&theme=vue-dark&hide_border=true)
