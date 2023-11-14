@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=giorgio-modeo&style=flat-square&color=blueviolet" alt=""/>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgio-modeo&layout=compact&theme=radical)
