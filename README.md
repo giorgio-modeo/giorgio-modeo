@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 ![giorgio-modeo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgio-modeo&show_icons=true&layout=compact&theme=radical)
+<br>
 ![giorgio-modeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgio-modeo&show_icons=true&layout=compact&theme=radical)
+<br>
 ![giorgio-modeo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=giorgio-modeo&show_icons=true&layout=compact&theme=radical)
