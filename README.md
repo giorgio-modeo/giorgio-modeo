@@ -3,10 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giorgio-modeo" alt="giorgio-modeo" /></a> </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/giorgio bruno modeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgio bruno modeo" height="30" width="40" /></a>
-</p>
+
 <hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -53,4 +50,9 @@
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giorgio-modeo&show_icons=true&locale=en" alt="giorgio-modeo" /></p>
 
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/giorgio bruno modeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgio bruno modeo" height="30" width="40" /></a>
+</p>
 
