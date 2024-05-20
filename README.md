@@ -47,9 +47,10 @@
 
 <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgio-modeo&show_icons=true&locale=en&layout=compact" alt="giorgio-modeo" /></p>
-<hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giorgio-modeo&show_icons=true&locale=en" alt="giorgio-modeo" /></p>
 
+<!-- <hr>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giorgio-modeo&show_icons=true&locale=en" alt="giorgio-modeo" /></p>
+ -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
