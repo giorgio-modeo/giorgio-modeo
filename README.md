@@ -1,3 +1,8 @@
+<div style="background-color: blue; padding: 20px; color: black;">
+  <h1>Benvenuti nel mio profilo GitHub!</h1>
+  <p>Questo è un esempio di sezione con uno sfondo personalizzato usando CSS inline.</p>
+</div>
+
 <h1 align="center">Hi 👋, I'm Giorgio Modeo</h1>
 <h3 align="center">A passionate full stack developer specializing in backend from Italia</h3>
 
