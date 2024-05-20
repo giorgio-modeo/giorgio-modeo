@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer specializing in backend from Italia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giorgio-modeo" alt="giorgio-modeo" /></a> </p>
-<hr>
+<h3></h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/giorgio bruno modeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgio bruno modeo" height="30" width="40" /></a>
