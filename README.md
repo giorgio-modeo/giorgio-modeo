@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Giorgio Modeo</h1>
-<h3 align="center">A passionate full stack developer specializing in backend from Italia</h3>
+<h3 align="center">A passionate full stack developer specializing in backend from Italy</h3>
 
+## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giorgio-modeo&theme=radical" alt="giorgio-modeo" /></a> </p>
 
 
-<hr>
+
 # 💻 Tech Stack:
 
-### Linguaggi di Programmazione
 
 #### Back-End
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -81,15 +81,23 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
-<hr>
+# 📊 GitHub Stats:
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgio-modeo&show_icons=true&locale=en&layout=compact&theme=radical" alt="giorgio-modeo" /></p>
 
 <!-- <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giorgio-modeo&show_icons=true&locale=en" alt="giorgio-modeo" /></p>
  -->
 
-<h3 align="center">Connect with me:</h3>
+# Connect with me:
 <p align="center">
 <a href="https://linkedin.com/in/giorgio bruno modeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgio bruno modeo" height="30" width="40" /></a>
 </p>
+
+#
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
