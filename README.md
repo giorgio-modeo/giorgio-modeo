@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giorgio Modeo</h1>
-<h3 align="center">A passionate backend developer from Italia</h3>
+<h3 align="center">A passionate full stack developer specializing in backend from Italia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giorgio-modeo" alt="giorgio-modeo" /></a> </p>
 
@@ -14,6 +14,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgio-modeo&show_icons=true&locale=en&layout=compact" alt="giorgio-modeo" /></p>
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giorgio-modeo&show_icons=true&locale=en" alt="giorgio-modeo" /></p>
-<hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giorgio-modeo&" alt="giorgio-modeo" /></p>
+
 
