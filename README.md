@@ -81,11 +81,11 @@
 ### Other Technologies
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-
+ <!-- 
 # 📊 GitHub Stats:
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giorgio-modeo&show_icons=true&locale=en&layout=compact&theme=radical" alt="giorgio-modeo" /></p>
 
-<!-- <hr>
+<hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giorgio-modeo&show_icons=true&locale=en" alt="giorgio-modeo" /></p>
  -->
 
