@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Giorgio Modeo</h1>
 <h3 align="center">A passionate full stack developer specializing in backend from Italy</h3>
-
+ <!-- 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giorgio-modeo&theme=radical" alt="giorgio-modeo" /></a> </p>
-
+-->
 
 
 # 💻 Tech Stack:
